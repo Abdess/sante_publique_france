@@ -2,3 +2,14 @@ matplotlib
 numpy
 pandas
 seaborn
+sqlalchemy
+psycopg2
+requests
+sklearn
+scipy
+jupyter-flex
+voila
+plotly
+chart_studio
+cufflinks
+python-dotenv
